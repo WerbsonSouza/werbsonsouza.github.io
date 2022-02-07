@@ -19,17 +19,14 @@
 ##
 Redes
 <div> 
-  <a href = "mailto:werbsonsouza.cad@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
-    </a>
-  <a href="https://www.linkedin.com/in/werbsonsouza/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
-    </a>
-  <a href="http://lattes.cnpq.br/9110996923226049" target="_blank"><img width="80px" src="http://portal.cnpq.br/image/journal/article?img_id=6616143&t=1541414552121">
-    </a>
-  
-  
+  <p><a href = "mailto:werbsonsouza.cad@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
+    </a></p>
+  <p><a href="https://www.linkedin.com/in/werbsonsouza/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+    </a></p>
+  <p><a href="http://lattes.cnpq.br/9110996923226049" target="_blank"><img width="80px" src="http://portal.cnpq.br/image/journal/article?img_id=6616143&t=1541414552121">
+    </a></p>
  </div>
 
 ##
-
-  Eu uso o manjaro <p>
-<img width="100px" src="https://img.shields.io/badge/manjaro-35BF5C?style=for-the-badge&logo=manjaro&logoColor=white" />
+  <img width="100px" src="https://img.shields.io/badge/manjaro-35BF5C?style=for-the-badge&logo=manjaro&logoColor=white" />
+  <p> E eu uso o manjaro </p>
