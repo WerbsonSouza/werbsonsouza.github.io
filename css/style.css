@@ -14,17 +14,9 @@ main{
 }
 
 .p_formacao{
-  text-align: center;
   font-size: 14px;
   letter-spacing: 4px;
-}
-
-.p_lista{
-  margin-top: 2px;
-  margin-bottom:10px;
   color: grey;
-  margin-left: 15px;
-  margin-right: 15px;
 
 }
 
